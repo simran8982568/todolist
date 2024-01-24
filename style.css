@@ -1,0 +1,63 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Fugaz+One&family=Kalam&display=swap');
+
+body{
+    background-color: rgb(253, 164, 179);
+    margin: 0%;
+    padding: 0%;
+    /* background-image: url("./ac54a128942c750799c2c1fe144d2467.jpg"); */
+    background-repeat: no-repeat;
+    background-size: 950px 500px;
+
+}
+*{
+    box-sizing: border-box;
+}
+#inputTag{
+    /* border-radius: 50px; */
+    width: 80%;
+    margin-left: 5.8%;
+
+}
+#bt{
+    border-radius: 2px;  
+    width: 8%;
+    
+}
+ .ct{
+    height: 20vh;
+    width: 80%;
+    background-color: rgb(86, 38, 100);
+    margin-left: 10%;
+   margin-top: 1%;
+   padding-top: 0.1%;
+}
+h3{
+    padding-left: 40% ;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    /* font-family: 'Kalam', cursive; */
+}
+/*.ic{
+    width: 100%;
+    padding-left: 40%;
+} */
+
+ li{
+background-color: rgb(244, 237, 237);
+color: black;
+gap: 1% 2%;
+font-family:'Kalam', 'cursive';
+border: 0.5px solid black;
+display: flex;
+justify-content: space-between;
+width: 94.2%;
+
+}
+li:hover{
+    background-color: rgb(212, 201, 201);
+}
+
+
+
+  
